@@ -7,16 +7,36 @@ A Flutter application to track vehicle service records. This cross-platform app 
 ### 🔐 User Authentication
 
    Secure login and signup functionality using Back4App (Parse Server)
+   
+                                                               Login Page 
+   ![loginpage](https://github.com/user-attachments/assets/ad166d49-e856-47b8-aa47-5c313b6f1b19)
+   
+                                                            Signup Page 
+   ![Signuppage](https://github.com/user-attachments/assets/9cdb12f7-4768-4513-a85b-8ab97d54c6d6)
+
+   
 
 ### 🧾 Service Record Management (CRUD)
 
-   ➕ Create new service entries
+                                              ➕ Create new service entries
+   
 
-   📖 Read/View a list of service records
+ ![Add service](https://github.com/user-attachments/assets/439dc83e-22d1-4df6-bba7-c8470f281569)
+ 
+                                            📖 Read/View a list of service records
 
-   ✏️ Update existing service records
+   ![Service Records page ](https://github.com/user-attachments/assets/9c8379e1-daa1-4f6f-a638-06592f9e359a)
 
-   ❌ Delete unwanted records
+
+                                             ✏️ Update existing service records
+
+ ![Update Record](https://github.com/user-attachments/assets/27a2032c-5134-40a6-a63f-564e197acc99)
+
+
+                                              ❌ Delete unwanted records
+
+ ![Delete record](https://github.com/user-attachments/assets/802c5641-d0b3-43b8-b4a3-6f0341a7072f)
+
 
 
 ### 💻 Cross-Platform Support
@@ -30,10 +50,15 @@ A Flutter application to track vehicle service records. This cross-platform app 
 ### 🔤 Web-Compatible Icons
 
    Uses text-based icons for optimal web rendering support
+   
+### Backend - Back4App 
 
-## Screenshots
+   ![Backend screenshot](https://github.com/user-attachments/assets/a6445d04-d318-4161-a10a-07c7e584f1c7)
 
-[Add screenshots of your app here]
+   Backend Successful Connection Message from Terminal 
+
+   ![Backend 2](https://github.com/user-attachments/assets/67d5f28c-8ddc-46df-8469-54357ea16e60)
+
 
 ## Technologies Used
 
@@ -54,7 +79,7 @@ A Flutter application to track vehicle service records. This cross-platform app 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/vehicle_service_tracker.git
+git clone https://github.com/SaratChandraPranit/vehicle_service_tracker.git
 ```
 
 2. Navigate to the project directory:
