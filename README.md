@@ -8,10 +8,10 @@ A Flutter application to track vehicle service records. This cross-platform app 
 
    Secure login and signup functionality using Back4App (Parse Server)
    
-                                                               Login Page 
+                                                           Login Page 
    ![loginpage](https://github.com/user-attachments/assets/ad166d49-e856-47b8-aa47-5c313b6f1b19)
    
-                                                            Signup Page 
+                                                         Signup Page 
    ![Signuppage](https://github.com/user-attachments/assets/9cdb12f7-4768-4513-a85b-8ab97d54c6d6)
 
    
