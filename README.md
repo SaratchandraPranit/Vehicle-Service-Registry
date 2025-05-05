@@ -1,33 +1,35 @@
-## 🚗 Vehicle Service Tracker
+# 🚗 Vehicle Service Tracker
+
 A Flutter application to track vehicle service records. This cross-platform app supports mobile (iOS, Android) and web platforms, allowing users to manage vehicle maintenance effortlessly.
 
 # ✨ Features
-🔐 User Authentication
 
-Secure login and signup functionality using Back4App (Parse Server)
+### 🔐 User Authentication
 
-🧾 Service Record Management (CRUD)
+   Secure login and signup functionality using Back4App (Parse Server)
 
-➕ Create new service entries
+### 🧾 Service Record Management (CRUD)
 
-📖 Read/View a list of service records
+   ➕ Create new service entries
 
-✏️ Update existing service records
+   📖 Read/View a list of service records
 
-❌ Delete unwanted records
+   ✏️ Update existing service records
+
+   ❌ Delete unwanted records
 
 
-💻 Cross-Platform Support
+### 💻 Cross-Platform Support
 
-Works on Android, iOS, and modern web browsers
+  Works on Android, iOS, and modern web browsers
 
-🌙 Dark Mode UI
+### 🌙 Dark Mode UI
 
-Sleek, Facebook-inspired dark theme for better usability
+   Sleek, Facebook-inspired dark theme for better usability
 
-🔤 Web-Compatible Icons
+### 🔤 Web-Compatible Icons
 
-Uses text-based icons for optimal web rendering support
+   Uses text-based icons for optimal web rendering support
 
 ## Screenshots
 
@@ -105,9 +107,6 @@ This app uses Back4App (Parse Server) as the backend. To set up your own backend
    - ServiceRecords (with fields: vehicleName, serviceType, serviceDate, notes)
 4. Update the Parse initialization in `main.dart` with your app keys
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
