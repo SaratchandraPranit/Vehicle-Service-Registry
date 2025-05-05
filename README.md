@@ -1,14 +1,33 @@
-# Vehicle Service Tracker
+## 🚗 Vehicle Service Tracker
+A Flutter application to track vehicle service records. This cross-platform app supports mobile (iOS, Android) and web platforms, allowing users to manage vehicle maintenance effortlessly.
 
-A Flutter application for tracking vehicle service records. This cross-platform app works on mobile devices and web browsers, allowing users to manage and track maintenance records for their vehicles.
+# ✨ Features
+🔐 User Authentication
 
-## Features
+Secure login and signup functionality using Back4App (Parse Server)
 
-- **User Authentication**: Secure login and signup functionality
-- **Service Record Management**: Add, edit, and delete service records
-- **Cross-Platform**: Works on iOS, Android, and web browsers
-- **Dark Mode UI**: Modern Facebook-inspired dark theme
-- **Web-Compatible Icons**: Uses text-based icons for better web compatibility
+🧾 Service Record Management (CRUD)
+
+➕ Create new service entries
+
+📖 Read/View a list of service records
+
+✏️ Update existing service records
+
+❌ Delete unwanted records
+
+
+💻 Cross-Platform Support
+
+Works on Android, iOS, and modern web browsers
+
+🌙 Dark Mode UI
+
+Sleek, Facebook-inspired dark theme for better usability
+
+🔤 Web-Compatible Icons
+
+Uses text-based icons for optimal web rendering support
 
 ## Screenshots
 
