@@ -1,0 +1,25 @@
+name: vehicle_service_tracker
+description: A Flutter app for tracking vehicle service history using Back4App.
+
+flutter:
+  assets:
+    - assets/fonts/
+
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/Roboto_Condensed-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Roboto_SemiCondensed-Bold.ttf
+          weight: 700
+
+
+environment:
+  sdk: '^3.7.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.5  # Adds Cupertino icons
+  parse_server_sdk_flutter: ^3.0.0  # Replace with latest version from pub.dev
+  provider: ^6.1.0  # Ensure other dependencies are correctly listed
